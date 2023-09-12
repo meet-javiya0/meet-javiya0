@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: meet-javiya0
             # Text on contribution graph 
-            text: Meet
+            text: MEET
        - uses: jasineri/simple-push-action@v1
