@@ -17,7 +17,7 @@
         
 <div align="center">
     
-<img src = "https://raw.githubusercontent.com/Devrajsinh-Gohil/Devrajsinh-Gohil/9b56cbb21d32c132f047351b615ac99a99249be3/gitartwork.svg">
+<img src = "https://github.com/meet-javiya0/meet-javiya0/blob/main/gitartwork.svg">
     
 </div>
 ## About Me
