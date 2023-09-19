@@ -17,7 +17,7 @@
         
 <div align="center">
     
-<img src = "https://github.com/meet-javiya0/meet-javiya0/blob/main/gitartwork.svg">
+<img src = "">
     
 </div>
 ## About Me
@@ -49,3 +49,8 @@
 ## ❤ Views and Followers
 [![](https://visitcount.itsvg.in/api?id=meet-javiya0&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <a href="https://github.com/meet-javiya0?tab=followers"><img src="https://img.shields.io/github/followers/meet-javiya0?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<!--
+meet-javiya0/meet-javiya0 is a ✨ special ✨ repository: its README.md will appear on your profile!
+You can click the Preview link to take a look at your changes.
+-->
